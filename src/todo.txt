@@ -1,0 +1,5 @@
+- parallel OpenMP
+
+- forecaster 3 cities
+
+- on graph up/down 15% possible variation

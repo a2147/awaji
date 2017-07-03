@@ -1,0 +1,41 @@
+﻿Build started 2013/02/13 15:44:39.
+     1>Project "Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Smart Grid.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Smart Grid.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"Z:\My Documents\Master thesis\Application\Smart Grid\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Consumer.cpp Forecaster.cpp Household.cpp main.cpp NormalDistribution.cpp Producer.cpp Flux.cpp RESmodels.cpp SimulationOfObjectivesForCitizens.cpp StdOps.cpp UnitSimulationFramework.cpp
+         UnitSimulationFramework.cpp
+         StdOps.cpp
+         SimulationOfObjectivesForCitizens.cpp
+         RESmodels.cpp
+         Flux.cpp
+         Producer.cpp
+         NormalDistribution.cpp
+         main.cpp
+         Household.cpp
+         Forecaster.cpp
+         Consumer.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Debug\Smart Grid.exe" /NOLOGO /LIBPATH:"Z:\My Documents\Master thesis\Application\Smart Grid\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Smart Grid.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Debug\Smart Grid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Debug\Smart Grid.lib" /MACHINE:X86 Debug\Consumer.obj
+         Debug\Forecaster.obj
+         Debug\Household.obj
+         Debug\main.obj
+         Debug\NormalDistribution.obj
+         Debug\Producer.obj
+         Debug\Flux.obj
+         Debug\RESmodels.obj
+         Debug\SimulationOfObjectivesForCitizens.obj
+         Debug\StdOps.obj
+         Debug\UnitSimulationFramework.obj
+         Smart Grid.vcxproj -> Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Debug\Smart Grid.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Debug\Smart Grid.exe;#1" /manifest "Debug\Smart Grid.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Smart Grid.unsuccessfulbuild".
+         Touching "Debug\Smart Grid.lastbuildstate".
+     1>Done Building Project "Z:\My Documents\Master thesis\Application\Final deployment 31.01\src\Smart Grid.vcxproj" (build target(s)).
+
+ビルドに成功しました。
+
+Time Elapsed 00:00:23.98
